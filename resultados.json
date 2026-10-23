@@ -1,0 +1,88 @@
+{
+  "Seco, 10:00": {
+    "dijkstra": [
+      "Ubaté (Planta)",
+      "Simijaca",
+      "Carmen de Carupa"
+    ],
+    "dijkstra_min": 80.2,
+    "viajes": [
+      {
+        "paradas": [
+          "Ubaté (Planta)",
+          "Sutatausa",
+          "Simijaca",
+          "Guachetá",
+          "Ubaté (Planta)"
+        ],
+        "minutos": 133.9,
+        "litros": 5900
+      },
+      {
+        "paradas": [
+          "Ubaté (Planta)",
+          "Susa",
+          "Fúquene",
+          "Lenguazaque",
+          "Ubaté (Planta)"
+        ],
+        "minutos": 93.4,
+        "litros": 5500
+      },
+      {
+        "paradas": [
+          "Ubaté (Planta)",
+          "Cucunubá",
+          "Tausa",
+          "Carmen de Carupa",
+          "Ubaté (Planta)"
+        ],
+        "minutos": 204.6,
+        "litros": 3200
+      }
+    ]
+  },
+  "Lluvia fuerte, 7:00": {
+    "dijkstra": [
+      "Ubaté (Planta)",
+      "Simijaca",
+      "Carmen de Carupa"
+    ],
+    "dijkstra_min": 176.9,
+    "viajes": [
+      {
+        "paradas": [
+          "Ubaté (Planta)",
+          "Simijaca",
+          "Guachetá",
+          "Sutatausa",
+          "Ubaté (Planta)"
+        ],
+        "minutos": 239.9,
+        "litros": 5900
+      },
+      {
+        "paradas": [
+          "Ubaté (Planta)",
+          "Susa",
+          "Fúquene",
+          "Lenguazaque",
+          "Ubaté (Planta)"
+        ],
+        "minutos": 134.0,
+        "litros": 5500
+      },
+      {
+        "paradas": [
+          "Ubaté (Planta)",
+          "Cucunubá",
+          "Tausa",
+          "Carmen de Carupa",
+          "Ubaté (Planta)"
+        ],
+        "minutos": 455.1,
+        "litros": 3200
+      }
+    ]
+  }
+}

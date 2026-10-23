@@ -1,0 +1,6 @@
+cd C:\Users\jimmi\Documents\Udec\Lenguajes\Codigo_Prototipo
+@"
+venv/
+.venv/
+__pycache__/
+"@ | Out-File -Encoding utf8 .gitignore
